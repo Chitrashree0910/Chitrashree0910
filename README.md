@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chitra shree
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me chitrashree0910@gmail.com
+- ⚡ Fun fact: Yet to be found
